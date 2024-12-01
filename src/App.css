@@ -1,0 +1,162 @@
+*{
+  text-decoration: none;
+  padding: 0;margin: 0;
+}
+body{
+  background-color: aqua;
+}
+#MainHome{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+#link{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 150px;
+  margin-top: 33px;
+  height: 600px;
+  background-color: #f1c40f;
+  /* border: 2px solid red; */
+}
+#but{
+  background-color: aqua;
+  color: black;
+}
+#main1{
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  width: 100%;
+}
+#body{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#Home{
+  height: 600px;
+  margin-top: 35px;
+  background-image: url("https://media.istockphoto.com/id/162515751/photo/moon-over-mountains.jpg?s=2048x2048&w=is&k=20&c=MtokJAY62EuO_yeP-gdJ4yqO49DIehHiOr_sqI5Ejhk=");
+  background-repeat: no-repeat;
+  background-size: "700px";
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  /* width: 500px; */
+}
+#left{
+  width: 600px;
+  align-items: center;
+}
+h1{
+  font-size: 55px;
+  color: aqua;
+  margin: 30px;
+}
+h3{
+  font-size: 40px;
+  color: aqua;
+  margin: 30px;
+}
+#para{
+  font-size: 20px;
+  color: gold;
+  margin: 30px;
+}
+button{
+  margin: 30px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 155px;
+  border-radius: 15px;
+  height: 55px;
+  background-color: yellow;
+  color:black;
+}
+#about{
+  height: 700px;
+  background-image: url("https://media.istockphoto.com/id/1355368910/photo/sunrise.jpg?s=2048x2048&w=is&k=20&c=e1NhQCvdl5St0gZqA8tQs5m9GYbMoFvfzY7zvBERZ7k=");
+  background-repeat: no-repeat;
+  background-size: "700px"; 
+}
+#p{
+  color: yellow;
+  text-align: center;
+}
+h4{
+  color: aqua;
+}
+h6{
+  color: aqua;
+}
+#pdimg{
+  width: 300px;
+  height: 300px;
+  background-color:lightgoldenrodyellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#read{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+#us{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#about1{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 25px;
+}
+#abt1{
+  width: 550px;
+  /* border: ;  */
+}
+#abt2{
+  width: 550px;
+}
+#abt3{
+  width: 550px;
+}
+#h1{
+  font-size: 35px;
+  width: 250px;
+  line-height: 40px;
+}
+#p1{
+  color: yellow;
+  width: 650px;
+  text-align: center;
+}
+#outlet{
+  width: 1200px;
+}
+#new{
+  width: 550px;
+}
+#gap{
+  margin-top: 35px;
+}
+#table{
+  width: 550px;
+  text-align: center;
+  margin-left: 350px;
+  background-color:yellow;
+
+}
+#edit{
+  color: black;
+}

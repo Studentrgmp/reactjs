@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "username": "NEW",
+      "password": "balaji",
+      "id": "1094"
+    },
+    {
+      "id": "8e08",
+      "username": "new",
+      "password": "qwertyuiop"
+    },
+    {
+      "id": "fa74",
+      "username": "utta",
+      "password": "123456789"
+    },
+    {
+      "id": "9af2",
+      "username": "karan",
+      "password": "1234567890"
+    },
+    {
+      "id": "2f24",
+      "username": "hello",
+      "password": "qwertyuiop["
+    },
+    {
+      "id": "4fdb",
+      "username": "balaji",
+      "password": "1234567890"
+    },
+    {
+      "id": "f178",
+      "username": "BALAJI",
+      "password": "123456"
+    },
+    {
+      "id": "74fa",
+      "username": "BALAJI",
+      "password": "234567"
+    }
+  ]
+}
